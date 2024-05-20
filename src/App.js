@@ -10,7 +10,10 @@ function App() {
 					className="App-logo"
 					alt="logo"
 				/>
-				<p>Welcome to our Frontend App built with React!</p>
+				<p>
+					Welcome to our Frontend App built with React! This is the second
+					commit.
+				</p>
 				<a
 					className="App-link"
 					href="https://reactjs.org"
